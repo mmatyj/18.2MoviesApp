@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+
+
+li {
+    list-style-type: none;
+}
+
+img {
+    max-width: 300px;
+    max-height: 450px;
+}
